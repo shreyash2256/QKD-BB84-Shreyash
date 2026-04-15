@@ -31,7 +31,7 @@ This project implements a complete end-to-end simulation of the BB84 Quantum Key
 - report.pdf → Documentation
 
 ##  Author
-Your Name
+Shreyash Bhatt
 
 ## Notes
 Eavesdropping increases error rate, demonstrating quantum security principles.
